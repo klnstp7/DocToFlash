@@ -1,0 +1,12 @@
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.csproj.ResolveComReference.cache
+F:\Working\TransferToFlashSolution\Daemon\bin\Debug\Daemon.exe.config
+F:\Working\TransferToFlashSolution\Daemon\bin\Debug\Daemon.exe
+F:\Working\TransferToFlashSolution\Daemon\bin\Debug\Daemon.pdb
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\ResolveAssemblyReference.cache
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.MainFrm.resources
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.SettingFrm.resources
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.Properties.Resources.resources
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.csproj.GenerateResource.Cache
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.exe
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.pdb
+F:\Working\TransferToFlashSolution\Daemon\obj\Debug\Daemon.QueryFrm.resources

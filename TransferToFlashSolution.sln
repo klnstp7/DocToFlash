@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformToFlash_Service", "TransformToFlash_Service\TransformToFlash_Service.csproj", "{18975311-C797-44F6-85F5-CF9A51FCDAAA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TransformToFlash_Installer", "TransformToFlash_Installer\TransformToFlashInstaller.vdproj", "{79F12C2C-AAA7-42B9-8565-25E346DBECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daemon", "Daemon\Daemon.csproj", "{3D82771D-76B2-46A1-97AA-CACD76EB62D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DaemonInstaller", "DaemonInstaller\DaemonInstaller.vdproj", "{E8044172-3C20-47EA-88A1-F343E4F50280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18975311-C797-44F6-85F5-CF9A51FCDAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18975311-C797-44F6-85F5-CF9A51FCDAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18975311-C797-44F6-85F5-CF9A51FCDAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18975311-C797-44F6-85F5-CF9A51FCDAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F12C2C-AAA7-42B9-8565-25E346DBECE8}.Debug|Any CPU.ActiveCfg = Debug
+		{79F12C2C-AAA7-42B9-8565-25E346DBECE8}.Release|Any CPU.ActiveCfg = Release
+		{3D82771D-76B2-46A1-97AA-CACD76EB62D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D82771D-76B2-46A1-97AA-CACD76EB62D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D82771D-76B2-46A1-97AA-CACD76EB62D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D82771D-76B2-46A1-97AA-CACD76EB62D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8044172-3C20-47EA-88A1-F343E4F50280}.Debug|Any CPU.ActiveCfg = Debug
+		{E8044172-3C20-47EA-88A1-F343E4F50280}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

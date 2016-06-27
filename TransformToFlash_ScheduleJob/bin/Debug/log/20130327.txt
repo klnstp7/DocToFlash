@@ -1,0 +1,118 @@
+[2013-3-27 17:17:09] d:\TEST\resource\20130313111757.pdf To Flash d:\TEST\flash\20130313111757.pdf.swf Success.
+
+[2013-3-27 17:19:16] d:\TEST\resource\MES报表实现公式、数据源-确认情况2.1_更新.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf Success.
+
+[2013-3-27 17:19:27] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf To Flash d:\TEST\flash\MES报表实现公式、数据源-确认情况2.1_更新.xls.swf Success.
+
+[2013-3-27 17:19:38] d:\TEST\resource\OUD包装QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\OUD包装QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:19:40] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\OUD包装QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\OUD包装QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:19:47] d:\TEST\resource\OUD装配QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\OUD装配QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:19:48] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\OUD装配QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\OUD装配QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:19:55] d:\TEST\resource\SMT.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\SMT.docx.pdf Success.
+
+[2013-3-27 17:19:57] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\SMT.docx.pdf To Flash d:\TEST\flash\SMT.docx.swf Success.
+
+[2013-3-27 17:20:00] d:\TEST\resource\SPC试题.doc To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\SPC试题.doc.pdf Success.
+
+[2013-3-27 17:20:02] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\SPC试题.doc.pdf To Flash d:\TEST\flash\SPC试题.doc.swf Success.
+
+[2013-3-27 17:20:19] d:\TEST\resource\TEST1.ppt To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\TEST1.ppt.pdf Success.
+
+[2013-3-27 17:20:52] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\TEST1.ppt.pdf To Flash d:\TEST\flash\TEST1.ppt.swf Success.
+
+[2013-3-27 17:20:52] d:\TEST\resource\复件 (2) 20130313111757.pdf To Flash d:\TEST\flash\复件 (2) 20130313111757.pdf.swf Success.
+
+[2013-3-27 17:20:55] d:\TEST\resource\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf Success.
+
+[2013-3-27 17:21:05] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf To Flash d:\TEST\flash\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls.swf Success.
+
+[2013-3-27 17:21:08] d:\TEST\resource\复件 (2) OUD包装QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) OUD包装QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:21:10] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) OUD包装QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) OUD包装QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:21:21] d:\TEST\resource\复件 (2) OUD装配QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) OUD装配QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:21:23] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) OUD装配QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) OUD装配QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:21:26] d:\TEST\resource\复件 (2) SMT.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) SMT.docx.pdf Success.
+
+[2013-3-27 17:21:28] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) SMT.docx.pdf To Flash d:\TEST\flash\复件 (2) SMT.docx.swf Success.
+
+[2013-3-27 17:21:31] d:\TEST\resource\复件 (2) SPC试题.doc To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) SPC试题.doc.pdf Success.
+
+[2013-3-27 17:21:32] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) SPC试题.doc.pdf To Flash d:\TEST\flash\复件 (2) SPC试题.doc.swf Success.
+
+[2013-3-27 17:21:46] d:\TEST\resource\复件 (2) TEST1.ppt To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) TEST1.ppt.pdf Success.
+
+[2013-3-27 17:22:19] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) TEST1.ppt.pdf To Flash d:\TEST\flash\复件 (2) TEST1.ppt.swf Success.
+
+[2013-3-27 17:22:21] d:\TEST\resource\复件 (2) 导入员工资料模板.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 导入员工资料模板.xls.pdf Success.
+
+[2013-3-27 17:22:21] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 导入员工资料模板.xls.pdf To Flash d:\TEST\flash\复件 (2) 导入员工资料模板.xls.swf Success.
+
+[2013-3-27 17:22:23] d:\TEST\resource\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx.pdf Success.
+
+[2013-3-27 17:22:24] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx.pdf To Flash d:\TEST\flash\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx.swf Success.
+
+[2013-3-27 17:22:30] d:\TEST\resource\复件 (2) 波达通讯录.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 波达通讯录.xls.pdf Success.
+
+[2013-3-27 17:23:10] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 波达通讯录.xls.pdf To Flash d:\TEST\flash\复件 (2) 波达通讯录.xls.swf Success.
+
+[2013-3-27 17:23:13] d:\TEST\resource\复件 (2) 邦定QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 邦定QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:23:14] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (2) 邦定QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) 邦定QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:23:15] d:\TEST\resource\复件 (3) 20130313111757.pdf To Flash d:\TEST\flash\复件 (3) 20130313111757.pdf.swf Success.
+
+[2013-3-27 17:23:17] d:\TEST\resource\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf Success.
+
+[2013-3-27 17:23:27] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf To Flash d:\TEST\flash\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls.swf Success.
+
+[2013-3-27 17:23:30] d:\TEST\resource\复件 (3) OUD包装QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (3) OUD包装QC知识考核试卷.docx.pdf Success.
+
+[2013-3-27 17:23:31] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\复件 (3) OUD包装QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (3) OUD包装QC知识考核试卷.docx.swf Success.
+
+[2013-3-27 17:23:34] d:\TEST\resource\复件 (3) OUD装配QC知识考核试卷.docx To PDF D:\WinSourceCode\TransferToFlashSolution\Transfor[2013-3-27 17:29:26] d:\TEST\resource\复件 (3) OUD装配QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (3) OUD装配QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:29:28] d:\TEST\resource\复件 (3) SMT.docx.pdf To Flash d:\TEST\flash\复件 (3) SMT.docx.pdf.swf Success.
+
+[2013-3-27 17:30:01] d:\TEST\resource\复件 (3) TEST1.ppt.pdf To Flash d:\TEST\flash\复件 (3) TEST1.ppt.pdf.swf Success.
+
+[2013-3-27 17:30:25] d:\TEST\resource\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf To Flash d:\TEST\flash\复件 (2) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf.swf Success.
+
+[2013-3-27 17:30:26] d:\TEST\resource\复件 (2) OUD包装QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) OUD包装QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:30:28] d:\TEST\resource\复件 (2) OUD装配QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) OUD装配QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:30:30] d:\TEST\resource\复件 (2) SMT.docx.pdf To Flash d:\TEST\flash\复件 (2) SMT.docx.pdf.swf Success.
+
+[2013-3-27 17:30:31] d:\TEST\resource\复件 (2) SPC试题.doc.pdf To Flash d:\TEST\flash\复件 (2) SPC试题.doc.pdf.swf Success.
+
+[2013-3-27 17:31:03] d:\TEST\resource\复件 (2) TEST1.ppt.pdf To Flash d:\TEST\flash\复件 (2) TEST1.ppt.pdf.swf Success.
+
+[2013-3-27 17:31:04] d:\TEST\resource\复件 (2) 导入员工资料模板.xls.pdf To Flash d:\TEST\flash\复件 (2) 导入员工资料模板.xls.pdf.swf Success.
+
+[2013-3-27 17:31:05] d:\TEST\resource\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx.pdf To Flash d:\TEST\flash\复件 (2) 微波ATS上传MES序列号(20130116-20130118).xlsx.pdf.swf Success.
+
+[2013-3-27 17:31:47] d:\TEST\resource\复件 (2) 波达通讯录.xls.pdf To Flash d:\TEST\flash\复件 (2) 波达通讯录.xls.pdf.swf Success.
+
+[2013-3-27 17:31:48] d:\TEST\resource\复件 (2) 邦定QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (2) 邦定QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:31:58] d:\TEST\resource\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf To Flash d:\TEST\flash\复件 (3) MES报表实现公式、数据源-确认情况2.1_更新.xls.pdf.swf Success.
+
+[2013-3-27 17:32:00] d:\TEST\resource\复件 (3) OUD包装QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (3) OUD包装QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:32:02] d:\TEST\resource\复件 (3) OUD装配QC知识考核试卷.docx.pdf To Flash d:\TEST\flash\复件 (3) OUD装配QC知识考核试卷.docx.pdf.swf Success.
+
+[2013-3-27 17:32:03] d:\TEST\resource\复件 (3) SMT.docx.pdf To Flash d:\TEST\flash\复件 (3) SMT.docx.pdf.swf Success.
+
+[2013-3-27 17:32:05] d:\TEST\resource\复件 (3) SPC试题.doc.pdf To Flash d:\TEST\flash\复件 (3) SPC试题.doc.pdf.swf Success.
+
+[2013-3-27 17:32:39] d:\TEST\resource\复件 (3) TEST1.ppt.pdf To Flash d:\TEST\flash\复件 (3) TEST1.ppt.pdf.swf Success.
+
+[2013-3-27 17:33:19] d:\TEST\resource\波达通讯录.xls.pdf To Flash d:\TEST\flash\波达通讯录.xls.pdf.swf Success.
+

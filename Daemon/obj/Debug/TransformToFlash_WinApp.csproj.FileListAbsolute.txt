@@ -1,0 +1,15 @@
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\bin\Debug\TransformToFlash_WinApp.exe.config
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.csproj.ResolveComReference.cache
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\ResolveAssemblyReference.cache
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash.Form1.resources
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.Properties.Resources.resources
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.csproj.GenerateResource.Cache
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\bin\Debug\TransformToFlash_WinApp.exe
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\bin\Debug\TransformToFlash_WinApp.pdb
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.exe
+D:\WinSourceCode\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.pdb
+F:\Working\TransferToFlashSolution\TransformToFlash_WinApp\bin\Debug\TransformToFlash_WinApp.exe.config
+F:\Working\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.csproj.ResolveComReference.cache
+F:\Working\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.exe
+F:\Working\TransferToFlashSolution\TransformToFlash_WinApp\obj\Debug\TransformToFlash_WinApp.pdb
+F:\Working\TransferToFlashSolution\TransformToFlash_WinApp\bin\Debug\Deamon.exe.config

@@ -1,0 +1,22 @@
+[2013-2-24 13:00:44] d:\ats-input\resource\jpkc.jpg Transformed To Flash Success.
+
+[2013-2-24 13:01:21] d:\ats-input\resource\calendar.png Transformed To Flash Success.
+
+[2013-2-24 13:07:56] d:\ats-input\resource\calendar.png Transformed To Flash Success.
+
+[2013-2-24 13:43:08] d:\ats-input\resource\ioFileDown.pdf Transformed To Flash Success.
+
+[2013-2-24 13:48:25] d:\ats-input\resource\OUD包装QC知识考核试卷.docx Transformed To Flash Success.
+
+[2013-2-24 13:49:19] d:\ats-input\resource\MES报表实现公式、数据源-确认情况2.1_更新.xls Transformed To Flash Success.
+
+[2013-2-24 13:51:10] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-2-24 13:52:52] d:\ats-input\resource\calendar.png Transformed To Flash Success.
+
+[2013-2-24 13:53:17] d:\ats-input\resource\Aviat测量数据报表.PNG Transformed To Flash Success.
+
+[2013-2-24 13:55:54] d:\ats-input\resource\calendar.png Transformed To Flash Success.
+
+[2013-2-24 13:56:34] d:\ats-input\resource\arrow_blue_right.gif Transformed To Flash Success.
+

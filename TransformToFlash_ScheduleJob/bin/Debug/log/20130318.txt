@@ -1,0 +1,14 @@
+[2013-3-18 17:31:00] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-3-18 20:57:31] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-3-18 21:37:56] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-3-18 21:40:30] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-3-18 22:52:25] d:\ats-input\resource\OUD装配QC知识考核试卷.docx Transformed To Flash Success.
+
+[2013-3-18 22:54:04] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+
+[2013-3-18 22:56:49] d:\ats-input\resource\TEST1.ppt Transformed To Flash Success.
+

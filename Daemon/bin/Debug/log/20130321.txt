@@ -1,0 +1,4 @@
+[2013-3-21 16:56:54] d:\TEST\resource\波达通讯录.xls To PDF D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\波达通讯录.xls.pdf Success.
+
+[2013-3-21 16:57:34] D:\WinSourceCode\TransferToFlashSolution\TransformToFlash\bin\Debug\pdffiles\波达通讯录.xls.pdf To Flash d:\TEST\flash\波达通讯录.xls.swf Success.
+
